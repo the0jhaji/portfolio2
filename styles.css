@@ -268,8 +268,8 @@ header {
 }
 
 .hero-subtitle {
-  font-size: 2rem;
-  margin-bottom: 25px;
+  font-size: 1.3rem;
+  margin-bottom: 15px;
   opacity: 0.9;
   animation: slideInLeft 1.2s ease-out;
 }
@@ -1372,7 +1372,7 @@ footer::before {
   }
 
   .hero-subtitle {
-    font-size: 1.8rem;
+    font-size: 1.3rem;
   }
 
   .hero-description {
@@ -1400,7 +1400,7 @@ footer::before {
   }
 
   .hero-subtitle {
-    font-size: 1.6rem;
+    font-size: 1.3rem;
   }
 
   .hero-description {
@@ -1754,8 +1754,8 @@ footer::before {
   }
 
   .hero-subtitle {
-    font-size: 1.2rem;
-    margin-bottom: 20px;
+    font-size: 1.1rem;
+    margin-bottom: 10px;
   }
 
   .hero-description {
